@@ -8,6 +8,7 @@ Users of the messidor database are encouraged to reference the following article
                      Decencière et al.. Feedback on a publicly distributed database: the Messidor database.
                        Image Analysis & Stereology, v. 33, n. 3, p. 231-234, aug. 2014. ISSN 1854-5165.
                              Available at: http://www.ias-iss.org/ojs/IAS/article/view/1155 or http://dx.doi.org/10.5566/ias.1155.
+                             
 Download:
 
 You can download our constructed dateset and the code of models from either Baidu Drive.
